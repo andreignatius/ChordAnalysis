@@ -1,2 +1,2 @@
 # ChordAnalysis
-Accepts .wav file and outputs chord progression
+Accepts .mp3 file and outputs chord progression
